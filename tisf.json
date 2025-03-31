@@ -1,0 +1,1 @@
+{"name":"MyApp","slug":"nextapp","repo":"my/app","features":["tailwind","zustand","onesignal"],"modules":["landing-1","auth","drawer"]}
